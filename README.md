@@ -1,12 +1,12 @@
 # Android CRUD Operations App
 
-This Android application demonstrates the implementation of CRUD (Create, Read, Update, Delete) operations using a local SQLite database. The app allows users to perform basic data management operations such as adding, viewing, updating, and deleting records.
+This Android application demonstrates the implementation of CRUD (Create, Read, Update, Delete) operations using firebase. The app allows users to perform basic data management operations such as adding, viewing, updating, and deleting records.
 
 ## Features
-- **Create**: Add new records to the SQLite database.
-- **Read**: View a list of records from the SQLite database.
-- **Update**: Edit existing records in the SQLite database.
-- **Delete**: Remove records from the SQLite database.
+- **Create**: Add new records to firebase.
+- **Read**: View a list of records from firebase.
+- **Update**: Edit existing records in firebase.
+- **Delete**: Remove records from firebase.
 
 ## Prerequisites
 Before running the app, ensure you have the following:
